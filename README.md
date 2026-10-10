@@ -130,6 +130,8 @@ The results recorded in the notebook were:
     a prediction score of approximately **27%**
 -   **Image 3** (a smiling face): **Happy**, with a prediction score of
     approximately **89%**
+DATASET is available at:
+https://www.kaggle.com/datasets/msambare/fer2013
 
 This test is only an initial check using a small number of personal
 images and is not a definitive measure of model accuracy. The
